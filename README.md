@@ -1,10 +1,15 @@
-> **Project#1: **
-**Adventure Works Executive Summary Dashboard** – Data Visualization and Power BI Project
+### **🚀 Project #1: Adventure Works Executive Summary Dashboard**
 
-Developed an executive dashboard for Adventure Works to display sales, customer, and product insights.
+**Type:** Data Visualization | **Tool:** Power BI
 
-Created DAX measures, established data relationships, and applied forecasting for future sales analysis.
+**Overview:**
+Developed an **executive dashboard** for *Adventure Works* to visualize key **sales**, **customer**, and **product insights**.
 
-Enabled Q&A functionality for real-time, conversational data exploration.
+**Key Highlights:**
 
-=====================================================================================
+* Created **DAX measures** to calculate KPIs and performance metrics.
+* Established **data relationships** and applied **forecasting** for future sales analysis.
+* Enabled **Q&A functionality** for real-time, conversational data exploration.
+
+---
+
