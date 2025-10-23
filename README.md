@@ -12,9 +12,8 @@ Developed an executive dashboard for *Adventure Works* showcasing sales, custome
 * Enabled Q&A functionality for real-time, conversational data exploration by executives.
 
 ---
----
 
-### **🚀Power BI Project #2 – Sales Report Dashboard
+### 🚀Power BI Project #2 – Sales Report Dashboard
 
 This dashboard was developed as a learning exercise inspired by a YouTube tutorial project.
 I followed the steps carefully to understand how to connect Power BI with Python and Excel, perform time-series analysis, and build interactive dashboards.
@@ -39,8 +38,7 @@ I followed the steps carefully to understand how to connect Power BI with Python
 
   * Revenue, Profit, and Profit Margin %
 
-### Sheet 3 – Interactive Top/Bottom 5 & Region Analysis
-
+### Sheet 3
 * **Interactive Top/Bottom 5 Bar Charts**
 
   * **Toggle Buttons:** “Top 5” and “Bottom 5”
@@ -56,7 +54,7 @@ I followed the steps carefully to understand how to connect Power BI with Python
   * Region vs Profit Margin %
   * Regions: Northeast, Southwest, Midwest, [Fourth Region]
 
-### Sheet 4 – Map Visualization
+* **Map Visualization**
 
 * **Total Profit by State (Map)** – Circle size indicates profit magnitude per state
 
