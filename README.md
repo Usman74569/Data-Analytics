@@ -54,8 +54,6 @@ I followed the steps carefully to understand how to connect Power BI with Python
   * Region vs Profit Margin %
   * Regions: Northeast, Southwest, Midwest, [Fourth Region]
 
-* **Map Visualization**
-
 * **Total Profit by State (Map)** – Circle size indicates profit magnitude per state
 
 ---
