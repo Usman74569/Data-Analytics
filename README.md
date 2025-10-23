@@ -47,7 +47,7 @@ I followed the steps carefully to understand how to connect Power BI with Python
     1. Customers vs Revenue
     2. Customers vs Profit Margin %
     3. States vs Revenue
-  * **Functionality:** Switch between highest 5 and lowest 5 values for each chart
+  * Switch between highest 5 and lowest 5 values for each chart
 * **Region Analysis Pie Charts**
 
   * Region vs Revenue
