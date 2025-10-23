@@ -16,7 +16,7 @@ Developed an executive dashboard for *Adventure Works* showcasing sales, custome
 ### 🚀Power BI Project #2 – Sales Report Dashboard
 
 This dashboard was developed as a learning exercise inspired by a YouTube tutorial project.
-I followed the steps carefully to understand how to connect Power BI with Python and Excel, perform time-series analysis, and build interactive dashboards.
+I followed the steps carefully to understand how to connect Power BI with Python and Excel, analyzed and build interactive dashboards.
 
 ### Sheet 1 – Overview & Time-Series Analysis
 
