@@ -57,3 +57,51 @@ I followed the steps carefully to understand how to connect Power BI with Python
 * **Total Profit by State (Map)** – Circle size indicates profit magnitude per state
 
 ---
+# Waste Management Dashboard — Union Councils of Peshawar
+
+## Overview
+
+This project combines **GIS spatial analysis** and **Power BI** to visualize and analyze waste generation across Peshawar’s Union Councils (UCs). It helps identify high-waste areas, inefficient UCs, and optimizes waste collection routes.
+
+---
+
+## GIS Analysis
+
+* **Choropleth Map:** Visualizes waste generation per UC (green = low, red = high).
+* **Waste per Capita & Vehicle:** Identifies inefficient UCs.
+* **Hotspot Analysis (Getis-Ord Gi*):** Detects clusters of high or low waste.
+* **Route Optimization:** Generates 5–15 min collection and dumping coverage areas for efficient waste management.
+* **Outputs:** CSVs for Power BI, PNGs, shapefiles, and GeoJSON polygons.
+
+---
+
+## Power BI Dashboard
+
+### Sheet 1 — Waste Management Dashboard
+
+* **Cards:** Total waste, population, average waste per vehicle, UC with highest waste.
+* **Map:** Bubble map of UCs (size = waste, color = population).
+* **Scatter Plot:** Waste vs. complaints per UC (bubble size = population).
+* **Slicer:** Filter by UC name.
+* **Top/Bottom Buttons:**
+
+  * **Top Button:** Displays top 8 UCs by waste (red bar chart + pie chart)
+  * **Bottom Button:** Displays bottom 8 UCs by waste (green bar chart + pie chart)
+* **Table:** UC Name | Total Waste | Waste per Capita | Waste per Vehicle
+
+### Sheet 2 — GIS Results (press the button in up right corner to be directed to it)
+
+* Displays exported GIS images:
+
+  * Waste Generation Choropleth
+  * Hotspot Analysis
+  * Route Optimization / Service Area Map
+
+---
+
+## Tools Used
+
+* **ArcGIS Pro** — GIS analysis and route optimization
+* **Power BI** — Interactive dashboard and visualizations
+
+---
