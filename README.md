@@ -99,4 +99,5 @@ This project combines **GIS spatial analysis** and **Power BI** to visualize and
 * **ArcGIS Pro** — GIS analysis and route optimization
 * **Power BI** — Interactive dashboard and visualizations
 
+## IMAGES OF DASHBOARD ARE UPLOADED in REPO
 ---
