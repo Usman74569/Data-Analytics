@@ -56,7 +56,7 @@ I followed the steps carefully to understand how to connect Power BI with Python
 
 * **Total Profit by State (Map)** – Circle size indicates profit magnitude per state
 
----
+> ---
 ### 🚀Power BI Project #3: Waste Management Dashboard — Union Councils of Peshawar
 
 ## Overview
@@ -70,8 +70,6 @@ This project combines **GIS spatial analysis** and **Power BI** to visualize and
 * **Hotspot Analysis (Getis-Ord Gi*):** Detects clusters of high or low waste.
 * **Route Optimization:** Generates 5–15 min collection and dumping coverage areas for efficient waste management.
 * **Outputs:** CSVs for Power BI, PNGs, shapefiles, and GeoJSON polygons.
-
----
 
 ## Power BI Dashboard
 
@@ -94,8 +92,7 @@ This project combines **GIS spatial analysis** and **Power BI** to visualize and
   * Waste Generation Choropleth
   * Hotspot Analysis
   * Route Optimization / Service Area Map
-
----
+ 
 
 ## Tools Used
 
