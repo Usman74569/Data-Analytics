@@ -57,13 +57,11 @@ I followed the steps carefully to understand how to connect Power BI with Python
 * **Total Profit by State (Map)** – Circle size indicates profit magnitude per state
 
 ---
-# Waste Management Dashboard — Union Councils of Peshawar
+### 🚀Power BI Project #3: Waste Management Dashboard — Union Councils of Peshawar
 
 ## Overview
 
 This project combines **GIS spatial analysis** and **Power BI** to visualize and analyze waste generation across Peshawar’s Union Councils (UCs). It helps identify high-waste areas, inefficient UCs, and optimizes waste collection routes.
-
----
 
 ## GIS Analysis
 
