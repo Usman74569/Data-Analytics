@@ -2,7 +2,7 @@
 
 **Type:** Data Visualization | **Tool:** Power BI
 
-**Overview:**
+**Overview:** 
 Developed an executive dashboard for *Adventure Works* showcasing sales, customer, and product insights for data-driven decision-making.
 
 **Key Highlights:**
