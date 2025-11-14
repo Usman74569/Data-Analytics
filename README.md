@@ -8,7 +8,7 @@ Developed an executive dashboard for *Adventure Works* showcasing sales, custome
 **Key Highlights:**
 
 * Created DAX measures and established data relationships for accurate reporting.
-* Implemented forecasting using a continuous Date Table and dynamic DAX measures to predict future sales trends (Seasonality = 12, Confidence = 99%).
+* Implemented forecasting using a continuous Date Table and dynamic DAX measures to predict future sales trends (Seasonality = 12, Confidence = 99%). Seasonality = 12 tells the forecasting model to look for repeating patterns every 12 units
 * Enabled Q&A functionality for real-time, conversational data exploration by executives.
 
 ---
